@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "image": "/assets/images/dobby.jpg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "/assets/images/draco.jpg",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "/assets/images/dumbledore.jpg",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "/assets/images/ginny.jpg",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "/assets/images/hagrid.jpg",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "/assets/images/harry.jpg",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "/assets/images/hedwig.jpg",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "/assets/images/hermione.jpg",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "/assets/images/mcgonagall.jpg",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "/assets/images/ron.jpg",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "/assets/images/snape.jpg",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "/assets/images/voldemort.jpg",
+      "clicked": false
+    }
+  ]
